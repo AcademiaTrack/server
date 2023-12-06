@@ -1,0 +1,11 @@
+SECRET_KEY=zy4zp+3m3yjye%tgyvo3!c8_5t9!f75v52h6_agrehtr_Grh
+DEBUG=True
+ALLOWED_HOSTS=127.0.0.1,localhost
+
+# data base configuration
+DB_ENGINE=django.db.backends.sqlite3
+DB_NAME=db.sqlite3
+DB_USER=root
+DB_PASSWORD=
+DB_HOST=127.0.0.1
+DB_PORT=3306
